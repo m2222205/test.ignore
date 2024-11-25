@@ -1,10 +1,14 @@
-﻿namespace _9_dars
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace _9_dars
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            
+
+
         }
     }
 }
